@@ -1,4 +1,4 @@
-# ADRC Library
+# ADRC (Active Disturbance Rejection Control) Library
 
 ### Use Bolder Flight Systems Eigen by Brian Taylor, by searching Eigen from library manager in Arduino IDE
 
